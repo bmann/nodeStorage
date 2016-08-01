@@ -1,0 +1,7 @@
+.DS_Store
+nodeStorage/
+node_modules/
+publicFiles/
+privateFiles/
+config.json
+
